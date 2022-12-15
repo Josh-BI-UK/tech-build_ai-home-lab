@@ -1,1 +1,0 @@
-# tech-build_ai-home-lab

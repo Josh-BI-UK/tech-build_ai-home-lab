@@ -1,5 +1,2 @@
-*.dmb
-*.rsc
-*.int
-*.lk
-*.zip
+*.DS_Store
+.DS_Store
